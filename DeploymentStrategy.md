@@ -164,7 +164,7 @@ The domain DNS records will be configured to point to the VPS public IP address.
 
 | Item | Estimated Cost |
 |------|---------------|
-| VPS Hosting | ₹600–₹1,000/month |
+| VPS Hosting | ₹1000–₹2,000/month |
 | Domain Name | ~₹1,000/year |
 | SSL Certificate (Let's Encrypt) | Free |
 | Docker | Free |
@@ -182,7 +182,7 @@ The domain DNS records will be configured to point to the VPS public IP address.
 
 Excluding WhatsApp messaging charges:
 
-**Approximately ₹700–₹1,200/month**
+**Approximately ₹2,000–₹3,000/month**
 
 Additional annual expense:
 
