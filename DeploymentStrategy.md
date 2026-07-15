@@ -35,7 +35,7 @@ Deploy the complete application on a single Linux VPS.
 
 Approximately:
 
-**₹500 – ₹1,000/month** depending on the VPS provider.
+**₹1000 – ₹2,000/month** depending on the VPS provider.
 
 ---
 
